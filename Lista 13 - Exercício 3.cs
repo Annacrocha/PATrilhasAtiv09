@@ -11,7 +11,6 @@ public class Produto
         return precoUnitario * quantidade;
     }
 }
-
 public class letra_c
 {
     public static void Main()
